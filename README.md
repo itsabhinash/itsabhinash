@@ -5,4 +5,4 @@ This is a test
 ## lectures
 All lectures will be posted here
 ## Labs 
-All assignments would be posted here
+All assignments would be posted
